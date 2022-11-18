@@ -5,7 +5,6 @@
 </div>
 
 <br>
-<br>
 
 <!--
 **Tiaguh/Tiaguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +24,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiaguh&theme=dark"/>
 </div>
+
+<br>
 
 <div align="center">
 <a href="https://github.com/Tiaguh">
