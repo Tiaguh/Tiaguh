@@ -35,9 +35,8 @@ Here are some ideas to get you started:
 </div
 
 <br>
-<br>
   
-<div>
+<div align="center">
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
   <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/>
