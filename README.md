@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/BRun0442">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=272&lines=Hello!;My+name+is+Tiago!;
-Welcome+to+my+profile!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&width=272&lines=Hello!;My+name+is+Tiago!" alt="Typing SVG" />
   </a>
 </div>
 
