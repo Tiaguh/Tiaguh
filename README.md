@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=FFFFFF&center=verdadeiro&vCenter=verdadeiro&width=435&lines=Hi!+%3A+);My+name+is+Tiago!++Welcome+to+my+profile!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=500&color=FFFFFF&center=verdadeiro&vCenter=verdadeiro&width=435&lines=Hi!+%3A+);My+name+is+Tiago!+;+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
-
-<br>
 
 <!--
 **Tiaguh/Tiaguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
