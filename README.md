@@ -28,21 +28,6 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-
-<a href="https://github.com/Tiaguh">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tiaguh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/Tiaguh">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaguh&layout=compact&langs_count=7&theme=dark"/>
-</a>
-
-   
-</div>
-
-<br>
-  
-<div align="center">
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
   <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/>
