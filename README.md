@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+                   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiaguh)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>               
+                   
+<div align="center">
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
   <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/>
