@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/Tiaguh">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiaguh&theme=dark"/>
-  </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tiaguh&theme=dark&hide_border=verdadeiro&border_radius=10)](https://git.io/streak-stats)
+
 </div>
 
 <br>
