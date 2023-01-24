@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <div align="center">
                    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiaguh&theme=dark&hide_border=verdadeiro&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+                   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaguh&&theme=dark&hide_border=verdadeiro&border_radius=10)](https://github.com/Akash1362000)
 
 </div>               
                    
