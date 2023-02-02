@@ -26,11 +26,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-<div align="center">
-  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=Tiaguh&theme=dark&hide_border=verdadeiro&border_radius=10" />                          
-  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaguh&&theme=dark&hide_border=verdadeiro&border_radius=10" />
-</div>               
                    
 <div align="center">
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
