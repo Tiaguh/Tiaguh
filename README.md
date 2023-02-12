@@ -19,17 +19,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tiaguh&theme=dark&hide_border=verdadeiro&border_radius=10)](https://git.io/streak-stats)
-
+<div align=center>
+  <a href="https://github.com/seu-usuário-aqui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaguh&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiaguh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
-                   
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323+Tusj&center=true&width=380&height=50&duration=3000&color=FFFFFF&pause=100000&lines=Tools+and+Languages:"" alt="Typing SVG"/>
+  </a>
+</p>
+
 <div align="center">
-  <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
-  
   <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img align="center" src="https://img.icons8.com/color/48/javascript.png" >
