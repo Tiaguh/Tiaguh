@@ -33,7 +33,7 @@
   
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000000000&color=FFFFFF&center=true&width=1000&lines= I'm currently studying systems development, this is my course completion work:" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000000000&color=FFFFFF&center=true&width=1000&lines= I'm currently studying systems development, this is my course completion work:" alt="Typing SVG" /> 
   </a>
 </p>
 
