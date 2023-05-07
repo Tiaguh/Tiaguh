@@ -12,7 +12,15 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tiaguh&theme=gotham)
 
 <div align="center">  
-<a href="https://www.instagram.com/tiaguh_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ 
+<a href="https://www.instagram.com/tiaguh_/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+</a>
+ 
+<a href="https://www.linkedin.com/in/tiago-alves-2a2710256/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  
 </div> 
  
 ### Main skills:
