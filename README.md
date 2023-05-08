@@ -11,7 +11,7 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tiaguh&theme=gotham)
 
-<div align="center">  
+### Social Medias
  
 <a href="https://www.instagram.com/tiaguh_/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -20,9 +20,7 @@
 <a href="https://www.linkedin.com/in/tiago-alves-2a2710256/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  
-</div> 
- 
+   
 ### Main skills:
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -44,12 +42,7 @@
   
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Vuu.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tiaguh}/count.svg" /></p> 
-<br></div>
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
   
 ![Snake animation](https://github.com/Tiaguh/Tiaguh/blob/output/github-contribution-grid-snake.svg)
 
