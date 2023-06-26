@@ -20,6 +20,8 @@
 
 <!--- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tiaguh&theme=gotham) -->
 
+<!---
+
 ### Social Medias
  
 <a href="https://www.instagram.com/tiaguh_/" target="_blank">
@@ -29,6 +31,8 @@
 <a href="https://www.linkedin.com/in/tiago-alves-2a2710256/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+-->
    
 ### Main skills:
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
