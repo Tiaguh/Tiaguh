@@ -15,7 +15,7 @@
 
 <br>
 
-<!--- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tiaguh&theme=gotham) -->
+<!--- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tiaguh&theme=gotham
 
 <!---
 
@@ -45,13 +45,13 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-![Snake animation](https://github.com/Tiaguh/Tiaguh/blob/output/github-contribution-grid-snake.svg)
-
 <!---
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+
+![Snake animation](https://github.com/Tiaguh/Tiaguh/blob/output/github-contribution-grid-snake.svg)
 
 -->
 
